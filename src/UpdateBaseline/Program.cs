@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UpdateBaseline
+namespace Imagere
 {
-    class Program
+    class UpdateBaseline
     {
         static void Main(string[] args)
         {
